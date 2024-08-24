@@ -89,7 +89,7 @@
           "show_level": "",
           "x": 50,
           "y": 184,
-          "src": "0116"
+          "src": "0109"
         }
       },
       {
@@ -204,7 +204,7 @@
           "visible": true,
           "align": "RIGHT",
           "show_level": "",
-          "imageX": 248,
+          "imageX": 247,
           "imageY": 337,
           "space": 5,
           "zero": false,
