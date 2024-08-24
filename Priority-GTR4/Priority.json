@@ -29,16 +29,19 @@
             "visible": true,
             "align": "CENTER_H",
             "show_level": "",
-            "imageX": 376,
+            "imageX": 374,
             "imageY": 238,
             "space": 4,
             "zero": false,
             "img_First": "0045",
             "unit": "0055",
+            "imperial_unit": "",
+            "icon": "",
             "iconPosX": 0,
             "iconPosY": 0,
             "negative_image": "0056",
             "invalid_image": "0056",
+            "dot_image": "",
             "angle": 0,
             "follow": false,
             "unit_in_alignment": false
@@ -49,10 +52,11 @@
           "visible": true,
           "shortcut": true,
           "show_level": "",
-          "X": 374,
-          "Y": 185,
+          "X": 375,
+          "Y": 184,
           "img_First": "0069",
-          "image_length": 29
+          "image_length": 29,
+          "img_error": ""
         }
       },
       {
@@ -78,7 +82,7 @@
           "position": 1,
           "visible": true,
           "show_level": "",
-          "x": 48,
+          "x": 51,
           "y": 187,
           "src": "0116"
         }
@@ -180,7 +184,7 @@
           "visible": true,
           "align": "RIGHT",
           "show_level": "",
-          "imageX": 255,
+          "imageX": 249,
           "imageY": 337,
           "space": 4,
           "zero": false,
@@ -288,11 +292,10 @@
           "visible": true,
           "shortcut": false,
           "show_level": "ONLY_NORMAL",
-          "X": 233,
+          "X": 234,
           "Y": 277,
           "img_First": "0062",
-          "image_length": 7,
-          "img_error": ""
+          "image_length": 0
         }
       },
       {
@@ -381,7 +384,7 @@
             "visible": true,
             "align": "RIGHT",
             "show_level": "ONLY_AOD",
-            "imageX": 261,
+            "imageX": 263,
             "imageY": 150,
             "space": 6,
             "zero": true,
