@@ -50,7 +50,7 @@
         "Images": {
           "position": 1,
           "visible": true,
-          "shortcut": true,
+          "shortcut": false,
           "show_level": "",
           "X": 374,
           "Y": 184,
@@ -453,5 +453,287 @@
         }
       }
     ]
+  },
+  "Shortcuts": {
+    "elementName": "ElementShortcuts",
+    "visible": true,
+    "Step": {
+      "position": -1,
+      "visible": true,
+      "show_level": "",
+      "x": 109,
+      "y": 328,
+      "w": 100,
+      "h": 56,
+      "src": ""
+    },
+    "Cal": {
+      "position": -1,
+      "visible": false,
+      "show_level": "",
+      "x": 0,
+      "y": 0,
+      "w": 100,
+      "h": 100
+    },
+    "Heart": {
+      "position": -1,
+      "visible": true,
+      "show_level": "",
+      "x": 109,
+      "y": 78,
+      "w": 85,
+      "h": 55,
+      "src": ""
+    },
+    "PAI": {
+      "position": -1,
+      "visible": true,
+      "show_level": "",
+      "x": 38,
+      "y": 179,
+      "w": 63,
+      "h": 100,
+      "src": ""
+    },
+    "Battery": {
+      "position": -1,
+      "visible": false,
+      "show_level": "",
+      "x": 0,
+      "y": 0,
+      "w": 100,
+      "h": 100
+    },
+    "Sunrise": {
+      "position": -1,
+      "visible": false,
+      "show_level": "",
+      "x": 0,
+      "y": 0,
+      "w": 100,
+      "h": 100
+    },
+    "Moon": {
+      "position": -1,
+      "visible": false,
+      "show_level": "",
+      "x": 0,
+      "y": 0,
+      "w": 100,
+      "h": 100
+    },
+    "BodyTemp": {
+      "position": -1,
+      "visible": false,
+      "show_level": "",
+      "x": 0,
+      "y": 0,
+      "w": 100,
+      "h": 100
+    },
+    "Weather": {
+      "position": -1,
+      "visible": true,
+      "show_level": "",
+      "x": 365,
+      "y": 179,
+      "w": 60,
+      "h": 100,
+      "src": ""
+    },
+    "Stand": {
+      "position": -1,
+      "visible": false,
+      "show_level": "",
+      "x": 0,
+      "y": 0,
+      "w": 100,
+      "h": 100
+    },
+    "SPO2": {
+      "position": -1,
+      "visible": false,
+      "show_level": "",
+      "x": 0,
+      "y": 0,
+      "w": 100,
+      "h": 100
+    },
+    "Altimeter": {
+      "position": -1,
+      "visible": false,
+      "show_level": "",
+      "x": 0,
+      "y": 0,
+      "w": 100,
+      "h": 100
+    },
+    "Stress": {
+      "position": -1,
+      "visible": false,
+      "show_level": "",
+      "x": 0,
+      "y": 0,
+      "w": 100,
+      "h": 100
+    },
+    "Countdown": {
+      "position": -1,
+      "visible": true,
+      "show_level": "",
+      "x": 110,
+      "y": 148,
+      "w": 114,
+      "h": 162,
+      "src": ""
+    },
+    "Stopwatch": {
+      "position": -1,
+      "visible": true,
+      "show_level": "",
+      "x": 255,
+      "y": 148,
+      "w": 96,
+      "h": 118,
+      "src": ""
+    },
+    "Alarm": {
+      "position": -1,
+      "visible": true,
+      "show_level": "",
+      "x": 233,
+      "y": 270,
+      "w": 121,
+      "h": 52,
+      "src": ""
+    },
+    "Sleep": {
+      "position": -1,
+      "visible": false,
+      "show_level": "",
+      "x": 0,
+      "y": 0,
+      "w": 100,
+      "h": 100
+    },
+    "Altitude": {
+      "position": -1,
+      "visible": false,
+      "show_level": "",
+      "x": 0,
+      "y": 0,
+      "w": 100,
+      "h": 100
+    },
+    "Readiness": {
+      "position": -1,
+      "visible": false,
+      "show_level": "",
+      "x": 0,
+      "y": 0,
+      "w": 100,
+      "h": 100
+    },
+    "OutdoorRunning": {
+      "position": -1,
+      "visible": false,
+      "show_level": "",
+      "x": 0,
+      "y": 0,
+      "w": 100,
+      "h": 100
+    },
+    "Walking": {
+      "position": -1,
+      "visible": false,
+      "show_level": "",
+      "x": 0,
+      "y": 0,
+      "w": 100,
+      "h": 100
+    },
+    "OutdoorCycling": {
+      "position": -1,
+      "visible": false,
+      "show_level": "",
+      "x": 0,
+      "y": 0,
+      "w": 100,
+      "h": 100
+    },
+    "FreeTraining": {
+      "position": -1,
+      "visible": false,
+      "show_level": "",
+      "x": 0,
+      "y": 0,
+      "w": 100,
+      "h": 100
+    },
+    "PoolSwimming": {
+      "position": -1,
+      "visible": false,
+      "show_level": "",
+      "x": 0,
+      "y": 0,
+      "w": 100,
+      "h": 100
+    },
+    "OpenWaterSwimming": {
+      "position": -1,
+      "visible": false,
+      "show_level": "",
+      "x": 0,
+      "y": 0,
+      "w": 100,
+      "h": 100
+    },
+    "TrainingLoad": {
+      "position": -1,
+      "visible": false,
+      "show_level": "",
+      "x": 0,
+      "y": 0,
+      "w": 100,
+      "h": 100
+    },
+    "VO2max": {
+      "position": -1,
+      "visible": false,
+      "show_level": "",
+      "x": 0,
+      "y": 0,
+      "w": 100,
+      "h": 100
+    },
+    "RecoveryTime": {
+      "position": -1,
+      "visible": false,
+      "show_level": "",
+      "x": 0,
+      "y": 0,
+      "w": 100,
+      "h": 100
+    },
+    "BreathTrain": {
+      "position": -1,
+      "visible": false,
+      "show_level": "",
+      "x": 0,
+      "y": 0,
+      "w": 100,
+      "h": 100
+    },
+    "FatBurning": {
+      "position": -1,
+      "visible": true,
+      "show_level": "",
+      "x": 234,
+      "y": 78,
+      "w": 81,
+      "h": 55,
+      "src": ""
+    }
   }
 }
