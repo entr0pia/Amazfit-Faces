@@ -346,6 +346,7 @@
             "iconPosX": 0,
             "iconPosY": 0,
             "invalid_image": "",
+            "dot_image": "",
             "angle": 0,
             "follow": false,
             "unit_in_alignment": false
