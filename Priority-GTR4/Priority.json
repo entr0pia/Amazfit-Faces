@@ -303,7 +303,6 @@
           "iconPosX": 313,
           "iconPosY": 277,
           "invalid_image": "",
-          "dot_image": "",
           "angle": 0,
           "follow": false,
           "unit_in_alignment": false,
@@ -482,17 +481,17 @@
       "show_level": "",
       "x": 109,
       "y": 78,
-      "w": 85,
-      "h": 55,
+      "w": 100,
+      "h": 56,
       "src": ""
     },
     "PAI": {
       "position": -1,
       "visible": true,
       "show_level": "",
-      "x": 38,
-      "y": 179,
-      "w": 63,
+      "x": 36,
+      "y": 180,
+      "w": 64,
       "h": 100,
       "src": ""
     },
@@ -536,9 +535,9 @@
       "position": -1,
       "visible": true,
       "show_level": "",
-      "x": 365,
-      "y": 179,
-      "w": 60,
+      "x": 364,
+      "y": 180,
+      "w": 64,
       "h": 100,
       "src": ""
     },
@@ -604,8 +603,8 @@
       "show_level": "",
       "x": 233,
       "y": 270,
-      "w": 121,
-      "h": 52,
+      "w": 120,
+      "h": 54,
       "src": ""
     },
     "Sleep": {
@@ -731,8 +730,8 @@
       "show_level": "",
       "x": 234,
       "y": 78,
-      "w": 81,
-      "h": 55,
+      "w": 100,
+      "h": 56,
       "src": ""
     }
   }
