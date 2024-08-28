@@ -1,6 +1,6 @@
-$start = 62
+$start = 3
 
-for ($i = 0; $i -lt 7; $i++) { 
+for ($i = 0; $i -lt 20; $i++) { 
     $n = ($start + $i).ToString("D4")
     $name = "$n.png"
     echo $name
