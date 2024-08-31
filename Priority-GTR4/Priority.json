@@ -103,7 +103,8 @@
           "X": 223,
           "Y": 2,
           "img_First": "0098",
-          "image_length": 9
+          "image_length": 9,
+          "img_error": ""
         },
         "Circle_Scale": {
           "position": 1,
