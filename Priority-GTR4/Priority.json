@@ -101,7 +101,7 @@
           "shortcut": false,
           "show_level": "",
           "X": 223,
-          "Y": 2,
+          "Y": 1,
           "img_First": "0098",
           "image_length": 9,
           "img_error": ""
@@ -348,7 +348,6 @@
             "iconPosX": 0,
             "iconPosY": 0,
             "invalid_image": "",
-            "dot_image": "",
             "angle": 0,
             "follow": false,
             "unit_in_alignment": false
@@ -406,7 +405,7 @@
       {
         "elementName": "DigitalTime_v2",
         "visible": true,
-        "Group_Second": {
+        "Group_Minute": {
           "position": 2,
           "Number": {
             "position": -1,
@@ -424,7 +423,6 @@
             "iconPosX": 0,
             "iconPosY": 0,
             "invalid_image": "",
-            "dot_image": "",
             "angle": 0,
             "follow": false,
             "unit_in_alignment": false
@@ -448,7 +446,6 @@
             "iconPosX": 0,
             "iconPosY": 0,
             "invalid_image": "",
-            "dot_image": "",
             "angle": 0,
             "follow": false,
             "unit_in_alignment": false
